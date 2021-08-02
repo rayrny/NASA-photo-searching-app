@@ -1,0 +1,19 @@
+.container {
+	justify-content: center;
+	color: white;
+	width: 60%;
+	margin-top: 3rem;
+	padding-bottom: 1.5rem;
+}
+
+.top-button {
+	position: fixed; 
+    bottom: 5rem;
+	right: 10rem; 
+	box-shadow: 1px 1px 6px 3px rgba(0,0,0,0.2);
+    cursor: pointer;
+}
+
+.top-button:hover {
+	background-color: black;
+}
