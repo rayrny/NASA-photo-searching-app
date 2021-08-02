@@ -13,3 +13,9 @@
 *NASA API 문서
 > https://images.nasa.gov/docs/images.nasa.gov_api_docs.pdf
 
+*설치한 라이브러리
+- npm install --save bootstrap
+- npm install react-bootstrap
+- npm install axios
+- npm install react-lines-ellipsis
+
